@@ -1,1 +1,1 @@
-# AI-dietition-Assitant
+# AI-Dietition-Assitant
